@@ -1,72 +1,45 @@
 [
   {
+    "name": "Fer Mamlaa Gadbad Hai",
+    "list": "Fer Mamlaa Gadbad Hai (2024)",
+    "year": "2024",
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/FerMamlaaGadbadHai(2024).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/main.m3u8"
+  },
+  {
     "name": "Golam",
     "list": "Golam (2024)",
     "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam(2024)/Golam(2024).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam(2024)/main.m3u8"
   },
   {
-    "name": "Manvat Murders - Season 1",
-    "list": "Manvat Murders - Season 1",
+    "name": "Jatt Nuu Chudail Takri",
+    "list": "Jatt Nuu Chudail Takri (2024)",
     "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/ManvatMurders(2024)Season1/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/ManvatMurders(2024)Season1/main.m3u8"
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/JattNuuChudailTakri(2024)/JattNuuChudailTakri(2024).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/JattNuuChudailTakri(2024)/main.m3u8"
   },
   {
-    "name": "Golam",
-    "list": "Movie 3",
+    "name": "Mittran Da Challeya Truck Ni",
+    "list": "Mittran Da Challeya Truck Ni (2024)",
     "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/MittranDaChalleyaTruckNi(2024)/MittranDaChalleyaTruckNi(2024).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/MittranDaChalleyaTruckNi(2024)/main.m3u8"
   },
   {
-    "name": "Golam",
-    "list": "Movie 4",
+    "name": "Parahuna 2",
+    "list": "Parahuna 2 (2024)",
     "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Parahuna2(2024)/Parahuna2(2024).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Parahuna2(2024)/main.m3u8"
   },
   {
-    "name": "Golam",
-    "list": "Movie 5",
+    "name": "The Greatest of All Time",
+    "list": "The Greatest of All Time (2024)",
     "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
-  },
-  {
-    "name": "Golam",
-    "list": "Movie 6",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
-  },
-  {
-    "name": "Golam",
-    "list": "Movie 7",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
-  },
-  {
-    "name": "Golam",
-    "list": "Movie 8",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
-  },
-  {
-    "name": "Golam",
-    "list": "Movie 9",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
-  },
-  {
-    "name": "Golam",
-    "list": "Movie 10",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/cover.jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Golam2024/golam.m3u8"
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheGreatestofAllTime(2024)/TheGreatestofAllTime(2024).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheGreatestofAllTime(2024)/main.m3u8"
   }
+  
 ]
