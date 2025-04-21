@@ -1,0 +1,65 @@
+## 📄 Privacy Policy
+
+**Effective Date:** [Today's Date]  
+**App Name:** FlixyFy - Watch Movies & Series  
+**Developer:** Awesome Builds
+
+---
+
+### 1. Introduction
+
+FlixyFy respects the privacy of its users. This Privacy Policy outlines how we collect, use, and protect any information you may provide while using our app.
+
+---
+
+### 2. Information We Collect
+
+We do **not collect**, store, or share any **personally identifiable information (PII)** such as your name, email address, phone number, or contact list.
+
+However, we may collect the following non-personal data to improve app performance:
+
+- Device information (model, OS version)
+- App usage statistics
+- Crashes or error logs
+
+---
+
+### 3. How We Use Information
+
+The information we collect is used to:
+
+- Improve app functionality and performance
+- Fix bugs and crashes
+- Enhance user experience
+
+We do **not sell**, trade, or rent user information to third parties.
+
+---
+
+### 4. Streaming Content
+
+FlixyFy provides links to movies and series that are available publicly on the internet. The app does **not host** any content on its servers.
+
+All streaming content is sourced from third-party websites. If you believe content should be removed, please contact the appropriate content host.
+
+---
+
+### 5. Ads & Analytics
+
+Our app may use third-party services (such as Google AdMob or Facebook Ads) to serve ads and analytics. These services may collect non-personal data in accordance with their own privacy policies.
+
+---
+
+### 6. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Users are advised to review this page periodically for any changes.
+
+---
+
+### 7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, you can contact us at:
+
+📧 **awesome.mail786@gmail.com**
+
+---
