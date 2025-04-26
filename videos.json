@@ -1,10 +1,31 @@
 [
   {
+    "name": "Deva",
+    "list": "Deva (2025)",
+    "year": "2025",
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Deva(2025)/Deva(2025).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Deva(2025)/Deva(2025)/main.m3u8"
+  },
+  {
     "name": "Fer Mamlaa Gadbad Hai",
     "list": "Fer Mamlaa Gadbad Hai (2024)",
     "year": "2024",
     "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/FerMamlaaGadbadHai(2024).jpg",
     "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/main.m3u8"
+  },
+  {
+    "name": "G20",
+    "list": "G20 (2025)",
+    "year": "2025",
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/G20(2025)/G20(2025).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/G20(2025)/main.m3u8"
+  },
+  {
+    "name": "Game Changer",
+    "list": "Game Changer (2025)",
+    "year": "2025",
+    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/GameChanger(2025)/GameChanger(2025).jpg",
+    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/GameChanger(2025)/main.m3u8"
   },
   {
     "name": "Golam",
@@ -35,25 +56,18 @@
     "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/Parahuna2(2024)/main.m3u8"
   },
   {
-    "name": "The Greatest of All Time",
-    "list": "The Greatest of All Time (2024)",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheGreatestofAllTime(2024)/TheGreatestofAllTime(2024).jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/TheGreatestofAllTime(2024)/main.m3u8"
+    "name": "The Gorge",
+    "list": "The Gorge (2025)",
+    "year": "2025",
+    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/TheGorge(2025)/TheGorge(2025).jpg",
+    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/TheGorge(2025)/main.m3u8"
   },
   {
-    "name": "Fer Mamlaa Gadbad Hai",
-    "list": "Jatt (2025)",
+    "name": "The Greatest of AllT Time",
+    "list": "The Greatest of AllT Time (2024)",
     "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/FerMamlaaGadbadHai(2024).jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/main.m3u8"
-  },
-  {
-    "name": "Fer Mamlaa Gadbad Hai",
-    "list": "Sikandar (2025)",
-    "year": "2024",
-    "imageUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/FerMamlaaGadbadHai(2024).jpg",
-    "videoUrl": "https://pub-51ae3a2b00a244eb8702cdf2cc41d643.r2.dev/FerMamlaaGadbadHai(2024)/main.m3u8"
+    "imageUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/TheGreatestofAllTime(2024)/TheGreatestofAllTime(2024).jpg",
+    "videoUrl": "https://pub-5d76df7f1063431e9d61c1ea4729d5e2.r2.dev/TheGreatestofAllTime(2024)/main.m3u8"
   }
   
 ]
